@@ -1,2 +1,2 @@
 # javascript-oblig
-Javascript into
+Javascript intro
