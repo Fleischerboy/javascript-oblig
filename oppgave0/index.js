@@ -44,6 +44,7 @@ function displayList() {
     let li = document.createElement("li");
     li.innerHTML = element;
     ulList.appendChild(li);
+    
    });
 }
 writeListBtn.addEventListener("click", displayList);
