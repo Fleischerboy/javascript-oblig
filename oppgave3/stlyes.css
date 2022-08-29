@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color:lightgray;
+    font-family: sans-serif;
+    
+
+}
+
+.green {
+    color: green;
+  }
+  
+
+
+input {
+    display: none;
+}
+
+main {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: lavender;    
+}
