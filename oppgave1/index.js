@@ -17,5 +17,8 @@ const longestWord = () => {
     });
     return longestWord;
 };
-
 console.log(longestWord());
+
+const h2 = document.createElement("h2");
+document.body.appendChild(h2);
+h2.innerHTML = `Longest word is: ${longestWord()}`;
